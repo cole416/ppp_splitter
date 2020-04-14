@@ -121,7 +121,7 @@ def main(argv):
 # if __name__ == "__main__":
    # main(sys.argv[1:])
 
-inpt =[['NLH1',\
+input =[['NLH1',\
          '@cole416', -200,\
          '@santi-amingad', 341.26,\
          '?theonly1s', 184.48,\
@@ -131,4 +131,4 @@ inpt =[['NLH1',\
          '@maxwell4727', -90.09,\
          '?csherman', -400,\
        ]
-main(inpt)
+main(input)
