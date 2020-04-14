@@ -120,3 +120,15 @@ def main(argv):
         
 if __name__ == "__main__":
    main(sys.argv[1:])
+
+input =[['NLH1',\
+         '@cole416', -200,\
+         '@santi-amingad', 341.26,\
+         '?theonly1s', 184.48,\
+         '?IrishLuck', 100.39,\
+         '?KashG', 100.10,\
+         '@KyleBrastrom', -75.43,\
+         '@maxwell4727', -90.09,\
+         '?csherman', -400,\]
+       ]
+main(inpt)
