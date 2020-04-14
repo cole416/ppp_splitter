@@ -118,10 +118,10 @@ def main(argv):
         print(i)
     return
         
-if __name__ == "__main__":
-   main(sys.argv[1:])
+# if __name__ == "__main__":
+   # main(sys.argv[1:])
 
-input =[['NLH1',\
+inpt =[['NLH1',\
          '@cole416', -200,\
          '@santi-amingad', 341.26,\
          '?theonly1s', 184.48,\
