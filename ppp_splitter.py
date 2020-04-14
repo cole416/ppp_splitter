@@ -129,6 +129,6 @@ input =[['NLH1',\
          '?KashG', 100.10,\
          '@KyleBrastrom', -75.43,\
          '@maxwell4727', -90.09,\
-         '?csherman', -400,\]
+         '?csherman', -400,\
        ]
 main(inpt)
